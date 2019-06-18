@@ -1,0 +1,9 @@
+{
+    "name": "web-tools",
+    "version": "0.0.0",
+    "description": "Helpful web tools that I want to save and reuse",
+    "author": {
+        "name": "Alex Anderson"
+    },
+    "types": "javascript/web-loaders.d.ts"
+}

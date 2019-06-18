@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "removeComments": true,
+        "lib": [ "es6", "dom" ],
+        "target": "es6",
+        "outDir": "javascript",
+        "declaration": true
+    },
+    "files": [
+        "./typescript/web-loaders.ts"
+    ]
+}
