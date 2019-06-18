@@ -7,7 +7,6 @@
         "removeComments": true,
         "lib": [ "es6", "dom" ],
         "target": "es6",
-        "outDir": "javascript",
         "declaration": true
     },
     "files": [

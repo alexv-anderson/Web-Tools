@@ -5,6 +5,6 @@
     "author": {
         "name": "Alex Anderson"
     },
-    "main": "javascript/web-loaders.js",
-    "types": "javascript/web-loaders.d.ts"
+    "main": "typescript/web-loaders.js",
+    "types": "typescript/web-loaders.d.ts"
 }
